@@ -13,5 +13,20 @@
     "express"
   ],
   "author": "Abdullah",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitlet/oauth_200618.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gitlet/oauth_200618/issues"
+  },
+  "homepage": "https://github.com/gitlet/oauth_200618#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
 }
