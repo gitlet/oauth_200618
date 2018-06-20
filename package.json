@@ -1,0 +1,17 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "OAUTH - Open Authentication using Passport.js, Node.js, & Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "oauth",
+    "passport",
+    "node",
+    "express"
+  ],
+  "author": "Abdullah",
+  "license": "ISC"
+}
